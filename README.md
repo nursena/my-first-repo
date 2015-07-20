@@ -1,2 +1,4 @@
 # my-first-repo
-My first test repository
+
+
+Excited to learn git and GitHub :)
